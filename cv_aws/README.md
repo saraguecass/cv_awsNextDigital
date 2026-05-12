@@ -14,4 +14,5 @@ Este proyecto consiste en una página web estática tipo currículum desarrollad
 - style.css: estilos visuales de la página.
 
 ## URL de despliegue
+https://dcu1ptr12n7zg.cloudfront.net/
 
